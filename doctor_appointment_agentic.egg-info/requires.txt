@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+langchain
+langgraph
+pydantic
+pandas
+typing_extensions

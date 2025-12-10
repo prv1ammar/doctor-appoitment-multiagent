@@ -1,0 +1,11 @@
+patient_id,medecin_id,date rendez vous,heure rendez-vous,service
+3,1,2024-01-16,10:30,Implants
+5,2,2024-01-16,14:00,Orthodontie
+2,2,2024-01-17,11:00,Orthodontie
+1,3,2024-01-17,09:30,Esthétique dentaire / Blanchiment
+4,3,2024-01-18,15:30,Soins dentaires / parodontales
+6,1,2024-01-19,10:00,Prothèse
+7,2,2024-01-19,16:00,Orthodontie
+8,3,2024-01-22,11:30,Esthétique dentaire / Blanchiment
+9,1,2024-01-22,14:30,Implants
+10,2,2024-01-23,10:00,Orthodontie

@@ -1,0 +1,11 @@
+question,réponse,catégorie,langue
+"Quels sont les horaires d'ouverture de la clinique ?","La clinique est ouverte du lundi au vendredi de 9h00 à 18h30, et le samedi de 9h00 à 13h00.",Horaires,FR
+"Quels services dentaires proposez-vous ?","Nous proposons : Prothèse, Orthodontie, Implants, Soins dentaires/parodontales, Extraction, et Esthétique dentaire/Blanchiment.",Services,FR
+"Comment prendre un rendez-vous ?","Vous pouvez prendre rendez-vous par téléphone ou via notre site web. Une confirmation vous sera envoyée par email.",Rendez-vous,FR
+"Les soins dentaires sont-ils douloureux ?","Nous utilisons des techniques modernes et une anesthésie locale pour minimiser tout inconfort pendant les traitements.",Traitements,FR
+"Quelle est la durée d'un traitement d'orthodontie ?","La durée varie entre 12 et 24 mois selon la complexité du cas et la technique utilisée.",Orthodontie,FR
+"Quels sont les modes de paiement acceptés ?","Nous acceptons les espèces, cartes bancaires, et chèques. Des facilités de paiement peuvent être arrangées.",Paiement,FR
+"Do you speak English?","Yes, all our doctors and staff speak French and English. Some also speak Arabic.",Langues,ANG
+"What is the cost of a dental implant?","The cost varies depending on the complexity. Please contact us for a personalized quote.",Prix,ANG
+"Can I get an emergency appointment?","Yes, we keep emergency slots available. Please call us immediately for urgent dental issues.",Urgences,FR
+"Faut-il une radio avant le premier rendez-vous ?","Oui, nous prenons des radiographies numériques lors de votre première consultation pour un diagnostic précis.",Diagnostic,FR

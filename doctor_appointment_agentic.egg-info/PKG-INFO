@@ -1,0 +1,17 @@
+Metadata-Version: 2.4
+Name: doctor-appointment-agentic
+Version: 0.0.1
+Author: Sunny Savita
+Author-email: snshrivas3365@gmail.com
+Requires-Python: >=3.10
+Requires-Dist: fastapi
+Requires-Dist: uvicorn
+Requires-Dist: langchain
+Requires-Dist: langgraph
+Requires-Dist: pydantic
+Requires-Dist: pandas
+Requires-Dist: typing_extensions
+Dynamic: author
+Dynamic: author-email
+Dynamic: requires-dist
+Dynamic: requires-python

@@ -1,0 +1,12 @@
+ID,nom,email,telephone,date_naissance,sexe,addresse
+1,Ahmed Benali,ahmed.benali@email.com,212612345678,1985-05-15,M,"123 Rue des Fleurs, Casablanca"
+2,Fatima Zohra,fatima.zohra@email.com,212698765432,1990-08-22,F,"45 Avenue Hassan II, Casablanca"
+3,Karim Alami,karim.alami@email.com,212600112233,1978-12-03,M,"78 Boulevard Moulay Youssef, Casablanca"
+4,Sophie Martin,sophie.martin@email.com,212655443322,1995-03-30,F,"22 Rue du Commerce, Casablanca"
+5,Youssef Nouri,youssef.nouri@email.com,212677889900,1982-07-19,M,"10 Place des Nations, Casablanca"
+6,Leila Berrada,leila.berrada@email.com,212611223344,1988-11-11,F,"56 Avenue des FAR, Casablanca"
+7,Mohammed Cherif,mohammed.cherif@email.com,212699887766,1975-01-25,M,"34 Rue de la Liberté, Casablanca"
+8,Amina Saidi,amina.saidi@email.com,212644556677,1992-09-08,F,"89 Boulevard d'Anfa, Casablanca"
+9,Rachid El Fassi,rachid.elfassi@email.com,212688776655,1980-04-17,M,"12 Rue Ibn Batouta, Casablanca"
+10,Sara Belhaj,sara.belhaj@email.com,212622334455,1998-06-12,F,"67 Avenue Mohammed V, Casablanca"
+11,Smith,jane.smith@example.com,0987654321,15-02-1990,M,123 Main St
