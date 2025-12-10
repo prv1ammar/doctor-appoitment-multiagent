@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+langchain
+langgraph
+pydantic
+pandas
+typing_extensions
+langchain-groq
+python-dotenv
+langchain-community
